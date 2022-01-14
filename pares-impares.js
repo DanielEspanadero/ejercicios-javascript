@@ -1,4 +1,4 @@
-// Extrae los números pares e impares del array números.git 
+// Extrae los números pares e impares del array números
 const numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15];
 
 let pares = [];
